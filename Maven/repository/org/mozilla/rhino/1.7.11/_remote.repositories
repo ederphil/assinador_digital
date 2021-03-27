@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 07 15:08:56 GMT-03:00 2020
+rhino-1.7.11.jar>central=
+rhino-1.7.11.pom>central=
+rhino-1.7.11-sources.jar>central=

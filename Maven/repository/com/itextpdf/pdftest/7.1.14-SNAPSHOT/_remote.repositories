@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 07 15:08:29 GMT-03:00 2020
+pdftest-7.1.14-SNAPSHOT.pom>itext-snapshot=
+pdftest-7.1.14-SNAPSHOT.jar>itext-snapshot=
+pdftest-7.1.14-SNAPSHOT-sources.jar>itext-snapshot=

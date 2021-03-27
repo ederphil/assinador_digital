@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 14 12:05:12 GMT-03:00 2020
+wagon-ssh-common-1.0-beta-6.jar>central=
+wagon-ssh-common-1.0-beta-6-sources.jar>central=
+wagon-ssh-common-1.0-beta-6.pom>central=

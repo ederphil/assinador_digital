@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.itextpdf.samples</groupId>
+  <artifactId>signatures</artifactId>
+  <version>7.1.14-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20201207180904</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>7.1.14-SNAPSHOT</value>
+        <updated>20201207180904</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>7.1.14-SNAPSHOT</value>
+        <updated>20201207180904</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

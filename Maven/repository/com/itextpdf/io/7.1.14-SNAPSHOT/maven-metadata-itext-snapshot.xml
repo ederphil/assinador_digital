@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.itextpdf</groupId>
+  <artifactId>io</artifactId>
+  <version>7.1.14-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20201214133138</lastUpdated>
+  </versioning>
+</metadata>

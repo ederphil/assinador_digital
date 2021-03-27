@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.itextpdf.samples</groupId>
+  <artifactId>signatures</artifactId>
+  <versioning>
+    <versions>
+      <version>7.1.14-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20201207180904</lastUpdated>
+  </versioning>
+</metadata>

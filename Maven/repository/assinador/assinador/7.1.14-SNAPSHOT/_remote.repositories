@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 14 17:54:28 GMT-03:00 2020
+assinador-7.1.14-SNAPSHOT.jar>=
+assinador-7.1.14-SNAPSHOT.pom>=
+assinador-7.1.14-SNAPSHOT-jar-with-dependencies.jar>=
